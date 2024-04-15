@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==5.0.3
+joblib==1.3.2
+numpy==1.26.4
+scikit-learn==1.2.2
+scipy==1.12.0
+sqlparse==0.4.4
+threadpoolctl==3.4.0
+typing_extensions==4.10.0
