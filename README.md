@@ -59,6 +59,7 @@ Quellen:
 
 Documentions
 ChatGPT
+Google Colab
 https://www.analyticsvidhya.com/blog/2021/07/car-price-prediction-machine-learning-vs-deep-learning/
 ...
 
